@@ -39,6 +39,5 @@ scikit-learn
   - `EDAMAM_APP_KEY` with your Edamam API Key. 
 
 ### **Run the Streamlit App**
-bash
-Copy code
+
 streamlit run app.py
