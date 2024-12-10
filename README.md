@@ -38,4 +38,7 @@ scikit-learn
   - `EDAMAM_APP_ID` with your Edamam API ID.
   - `EDAMAM_APP_KEY` with your Edamam API Key. 
 
-This ensures the application runs seamlessly.
+### **Run the Streamlit App**
+bash
+Copy code
+streamlit run app.py
