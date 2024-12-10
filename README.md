@@ -40,6 +40,6 @@ scikit-learn
 
 ## Run the Streamlit App
 
-
+```bash
 streamlit run app.py
-
+```
