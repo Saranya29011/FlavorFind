@@ -67,8 +67,8 @@ else:
     st.success(f"Model trained with accuracy: {accuracy:.2f}")
 
 nlp = None
-EDAMAM_APP_ID = '3b101cee'  # Replace with your API ID
-EDAMAM_APP_KEY = '55939d19017e348c2a2be920b0a526fc'  # Replace with your API Key
+EDAMAM_APP_ID = 'YOUR EDAMMA API-ID'  # Replace with your API ID
+EDAMAM_APP_KEY = 'YOUR EDAMAM API-KEY'  # Replace with your API Key
 
 # Function to classify recipe type using the trained ML model
 def classify_recipe_type(user_input):
